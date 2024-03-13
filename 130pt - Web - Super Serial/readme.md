@@ -219,5 +219,5 @@ Cache-Control: no-store, no-cache, must-revalidate
 Pragma: no-cache
 Content-type: text/html; charset=UTF-8
 
-Deserialization error. picoCTF{th15_vu1n_1s_5up3r_53r1ous_y4ll_b4e3f8b1}
+Deserialization error. picoCTF{XXXXXXX}
 ```

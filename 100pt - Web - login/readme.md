@@ -26,5 +26,5 @@ So if we put == at the end of this value and try to base64 decode it, will get t
 
 ```bash
 $ echo 'cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ==' |base64 --decode
-picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}  
+picoCTF{XXXXXXX}  
 ```

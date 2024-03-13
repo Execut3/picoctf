@@ -7,7 +7,7 @@ as the description told, need to make a HEAD request to server,
 ```bash
 $ curl --head http://mercury.picoctf.net:47967/
 HTTP/1.1 200 OK
-flag: picoCTF{r3j3ct_th3_du4l1ty_cca66bd3}
+flag: picoCTF{XXXXXXX}
 Content-type: text/html; charset=UTF-8
 
 ```

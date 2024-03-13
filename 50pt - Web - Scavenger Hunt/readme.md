@@ -38,6 +38,6 @@ Congrats! You completed the scavenger hunt. Part 5: _f7ce8828}
 
 
 ```
-flag: picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_f7ce8828}
+flag: picoCTF{XXXXXXX}
 ```
 

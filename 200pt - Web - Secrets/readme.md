@@ -47,7 +47,7 @@ and going to `superhidden`:
 
   <body>
     <h1>Finally. You found me. But can you see me</h1>
-    <h3 class="flag">picoCTF{succ3ss_@h3n1c@10n_790d2615}</h3>
+    <h3 class="flag">picoCTF{XXXXXXX}</h3>
   </body>
 </html>
 

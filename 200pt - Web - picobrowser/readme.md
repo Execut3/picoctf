@@ -9,5 +9,5 @@ $ curl https://jupiter.challenges.picoctf.org/problem/28921/flag --header "User-
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  2115  100  2115    0     0   1640      0  0:00:01  0:00:01 --:--:--  1640
-            <p style="text-align:center; font-size:30px;"><b>Flag</b>: <code>picoCTF{p1c0_s3cr3t_ag3nt_84f9c865}</code></p>
+            <p style="text-align:center; font-size:30px;"><b>Flag</b>: <code>picoCTF{XXXXXXX}</code></p>
 ```

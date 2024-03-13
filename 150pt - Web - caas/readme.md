@@ -45,6 +45,6 @@ yes. simple search for flag and read it:
             (__)\       )\/\
                 ||----w |
                 ||     ||
-picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}
+picoCTF{XXXXXXX}
 
 ```

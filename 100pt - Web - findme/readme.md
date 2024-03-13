@@ -31,5 +31,5 @@ by decoding these two base64 encoded values and concating them together will get
 
 ```bash
 echo 'cGljb0NURntwcm94aWVzX2FsbF90aGVfd2F5XzNkOWUzNjk3fQ==' |base64 --decode
-picoCTF{proxies_all_the_way_3d9e3697}⏎  
+picoCTF{XXXXXXX}
 ```

@@ -43,7 +43,7 @@ curl "http://saturn.picoctf.net:57741/check.php" --header "Cookie: isAdmin=1"
 
 
 
-<p>picoCTF{gr4d3_A_c00k13_5d2505be}</p>
+<p>picoCTF{XXXXXXX}</p>
 
 
 </body>

@@ -13,5 +13,5 @@ Disallow: /1bb4c.html
 and checking the location given:
 ```html
 Guess you found the robots
-picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
+picoCTF{XXXXXXX}
 ```

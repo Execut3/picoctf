@@ -71,5 +71,5 @@ print(ascii_text)
 and run:
 ```bash
 $ python solve.py 
-picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
+picoCTF{XXXXXXX}
 ```

@@ -13,6 +13,6 @@ we download all files using `wget` command recursively
 and search for `picoCTF` value in all files using below command:
 ```bash
 $ grep -r 'picoCTF' .
-./saturn.picoctf.net:65086/css/style.css:/** banner_main picoCTF{1nsp3ti0n_0f_w3bpag3s_587d12b8} **/ wget -r http://saturn.picoctf.net:65086
+./saturn.picoctf.net:65086/css/style.css:/** banner_main picoCTF{XXXXXXX} **/ wget -r http://saturn.picoctf.net:65086
 ```
 and the flag is in style.css file.

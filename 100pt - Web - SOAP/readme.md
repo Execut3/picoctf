@@ -76,6 +76,6 @@ gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologi
 nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
 _apt:x:100:65534::/nonexistent:/usr/sbin/nologin
 flask:x:999:999::/app:/bin/sh
-picoctf:x:1001:picoCTF{XML_3xtern@l_3nt1t1ty_e79a75d4}
+picoctf:x:1001:picoCTF{XXXXXXX}
 
 ```
